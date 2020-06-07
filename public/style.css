@@ -1,0 +1,92 @@
+.intro{
+    margin: 1em;
+    width: 65%;
+}
+.one {
+    font-size: 48px;
+    font-family: fantasy;
+    color: greenyellow;
+    
+}
+.two{
+    font-size: 42px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.intro>p{
+    font-size: 20px;
+    font-family: monospace;
+}
+
+
+.footer{
+    background-color:  #25272E;
+   
+    color: white;
+    font-size: 10pt;
+    height: 3%;
+}
+
+.img1{
+    position:absolute;
+    right: 30%;
+    height:5% ;
+    
+}
+.img2{
+    position:absolute;
+    right: 27%;
+    height:5% ;
+    
+}
+.img3{
+    position:absolute;
+    right: 24%;
+    height:5% ;
+    
+}
+.img4{
+    position:absolute;
+    right: 20%;
+    height:5% ;
+    
+}
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+.ab{
+    
+text-align: right;
+font-size: 40px;
+
+color:white;
+}
+.card-img-overlay>label{
+    font-size: 72px;
+    color: white;
+}
+.head{
+
+    font-size: 36px;
+    font-family: monospace;
+}
+
+.link{
+    margin: 4em;
+}
+.l1{
+    margin: 0.5em;
+    font-size: 30px;
+}
+.l2{
+    margin: 0.5em;
+    font-size: 20px;
+}
